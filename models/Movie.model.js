@@ -14,4 +14,4 @@ const Movie = new Schema(
   }
 );
  
-module.exports = model('Book', Movie);
+module.exports = model('Movie', Movie);

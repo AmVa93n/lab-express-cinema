@@ -9,8 +9,12 @@ a {
   color: #00B7FF;
 }
 
-movie {
+.movie {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.movie-details {
+  margin-left: 50px;
 }
